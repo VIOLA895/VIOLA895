@@ -1,127 +1,97 @@
-# Hey, I'm Viola 👋
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=VIOLA%20KAMBUNI&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Front-End%20Web%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-### Front-End Developer • Creative Builder • Problem Solver
-
-I build **clean, interactive web experiences** and turn ideas into things people can actually use.
-
-I'm interested in the intersection of **code, design, and usability** — from polished interfaces and animations to applications that solve real problems.
-
-```text
-Curious mind.
-Creative builder.
-Always learning.
-Always shipping.
-```
-
----
-
-## 🚀 What I'm Up To
-
-* 🔭 Building modern web applications with **React & TypeScript**
-* 🌱 Deepening my knowledge of **frontend architecture, APIs & scalable code**
-* 🤝 Open to collaborating on **interesting web projects**
-* 🧠 Learning by building, breaking, debugging, and rebuilding
-* 🎯 Working toward becoming a stronger **software engineer**
-
----
-
-## 🛠️ Tech I Work With
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,git,github,vscode" />
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=VIOLA895">
+    <img src="https://komarev.com/ghpvc/?username=VIOLA895&label=Profile%20views&color=00FFFF&style=flat-square" alt="VIOLA895's profile views" />
+  </a>
 </p>
 
-**Also exploring:** Next.js • REST APIs • Framer Motion • Responsive Design
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
----
+## 📌 About Me
+- 🔭I'm currently working on: Building polished web applications
+- 🤝 I'm looking to collaborate on: Creative and meaningful web projects
+- 🛠️ I'm looking for help with: Becoming a better software engineer and writing better, scalable code
+- 🌱 I'm currently learning: Advanced React, TypeScript & modern web development
+- 💬 Ask me about: Frontend development, React, JavaScript, or my latest projects
+- ⚡ Fun fact: I can spend hours perfecting one tiny detail until it feels just right.
 
-## ✨ Things I've Built
 
-### 🏎️ ApexOne
-
-A beginner-friendly Formula 1 experience designed to make the sport easier to understand while exploring drivers, teams, stats, and race concepts.
-
-**React • TypeScript • API Integration • Motion**
-
-### 🌱 AgriCare Hub
-
-A modern agricultural platform connecting farmers with tools for **crop management, livestock management, weather insights, and community interaction**.
-
-**React • JavaScript • Context API • Responsive UI**
-
-### ⚽ Predict Your Game
-
-A football prediction game built around score predictions, ranking logic, and a smarter bot prediction system.
-
-**JavaScript • Logic • Local Storage • Game Mechanics**
-
-### 🌦️ Atmos Weather
-
-A modern weather application focused on presenting weather information through a clean, intuitive interface.
-
-**Next.js • TypeScript • APIs • Responsive Design**
-
----
-
-## 💡 How I Build
-
-I don't just want things to **work**.
-
-I want them to:
-
-> **Feel good to use.**
-
-That means caring about the little things — spacing, motion, responsiveness, accessibility, loading states, and the tiny details that make an interface feel intentional.
-
----
-
-## 📈 Currently Growing
-
-```text
-Frontend Development    ███████████████████░░
-TypeScript              ████████████████░░░░░
-React                   ██████████████████░░
-UI / UX                 ███████████████░░░░░
-Software Architecture   ████████████░░░░░░░░
-Backend                  ████████░░░░░░░░░░░░
-```
-
----
-
-## 🌐 Find Me
-
-<p align="left">
-  <a href="https://viola-kambuni.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+## 📊 GitHub Stats & Trophies
+<p align="center">
   <a href="https://github.com/VIOLA895">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VIOLA895&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="VIOLA895's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=VIOLA895&theme=nightowl&hide_border=true&cache_seconds=86400" alt="VIOLA895's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=VIOLA895&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="VIOLA KAMBUNI's GitHub Trophies" />
+</p>
+
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/VIOLA895">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VIOLA895&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
----
+![Top language](https://stats.pphat.top/languages?username=VIOLA895)
+<br/>
 
-## 📊 GitHub
-
+## 🔗 Connect with Me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VIOLA895&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VIOLA895&hide_border=true&theme=transparent" height="165"/>
+  <a href="https://www.linkedin.com/in/viola-kambuni-4bb48631b/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://wa.me/254740896780">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:kambuniviola@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://viola-kambuni.vercel.app/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
 </p>
 
----
-
-## ⚡ A Little More About Me
-
-* 💻 I enjoy building things from scratch
-* 🎨 I care way too much about good UI
-* 🧩 I genuinely enjoy solving frustrating bugs
-* 🔍 I notice tiny design details
-* 🚀 I'm always working on the next project
-
----
-
-### `Build. Break. Learn. Repeat.`
-
 <p align="center">
-  <i>Thanks for stopping by.</i> ✨
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+<div align="center">
+  <img src="none" alt="Bottom Line" width="100%" />
+</div>
+
