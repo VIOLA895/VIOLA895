@@ -1,21 +1,50 @@
-<h1>Hi 👋, I'm VIOLA</h1>
-<p>A passionate frontend developer </p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/Viola Kambuni" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/_theyluvvvee" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=VIOLA895&show_icons=true&locale=en" alt="VIOLA895" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VIOLA895&" alt="VIOLA895" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=VIOLA895&show_icons=true&locale=en&layout=compact" alt="VIOLA895" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VIOLA895" alt="VIOLA895" /></a></p>
+<h1 align="center">Hi, I'm Viola Kambuni</h1>
+<h3 align="center">Frontend Developer | Mathematics & Computer Science Student</h3>
 
+<p align="center">
+  <a href="https://viola-kambuni.vercel.app/">Portfolio</a> ·
+  <a href="https://github.com/VIOLA895/my-portfolio">Portfolio Repo</a> ·
+  <a href="https://predictyourgame.netlify.app/">Predict the Cup</a>
+</p>
+
+---
+
+### About Me
+
+- Studying Mathematics and Computer Science at Kenyatta University, Nairobi, Kenya
+- Web Development certificate holder — GoMyCode Kenya
+- Building frontend interfaces with React, TypeScript, and modern CSS
+- Preparing for technical interviews and sharpening full-stack fundamentals along the way
+
+### Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,git,github,vercel" alt="Tech stack icons" />
+</p>
+
+### Featured Projects
+
+**ApexOne**
+A React (Vite) web app that teaches Formula 1 basics to beginners — covers the rules, tracks the live season, and profiles drivers and teams.
+
+**Predict the Cup**
+A World Cup score-prediction game built with HTML, CSS, and JavaScript.
+Live: https://predictyourgame.netlify.app/
+
+**My Portfolio**
+Personal developer portfolio built with React, TypeScript, Vite, CSS, Motion, and Lucide React, featuring AgriCare Hub, Predict the Cup, and ApexOne.
+Live: https://viola-kambuni.vercel.app/
+Repo: https://github.com/VIOLA895/my-portfolio
+
+### GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=VIOLA895&show_icons=true&theme=default&hide_border=true" alt="Viola's GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VIOLA895&hide_border=true" alt="Viola's GitHub streak" height="165" />
+</p>
+
+### Let's Connect
+
+<p align="left">
+  <a href="https://github.com/VIOLA895">GitHub</a>
+</p>
